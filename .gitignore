@@ -1,0 +1,8 @@
+bower_components
+node_modules
+src
+.travis.yml
+gulpfile.babel.js
+package.json
+demo
+test
